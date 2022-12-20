@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omar-Magdy-Saed
-- 👀 I’m interested in Automoating task for Optical Networks 
+- 👀 I’m interested in Automoating taskس for Optical Networks 
 - 🌱 I’m currently learning Python and AI
 - 💞️ I’m looking to collaborate on all kind of automation projects and Basic AI 
 - 📫 How to reach me via  email eng.oamr.magdy@gmail.com
